@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Projek.iml" filepath="$PROJECT_DIR$/Projek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mabim-Guide-FTUI.iml" filepath="$PROJECT_DIR$/Mabim-Guide-FTUI.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
